@@ -1,1 +1,0 @@
-/Users/Brijraj/Documents/Cambridge\ Comp\ Sci/Rust/DonationProject/target/wasm32-unknown-unknown/release/donor.wasm: /Users/Brijraj/Documents/Cambridge\ Comp\ Sci/Rust/DonationProject/contracts/donor/src/lib.rs
