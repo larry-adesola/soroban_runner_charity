@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/Brijraj/Documents/Cambridge Comp Sci/Rust/DonationProject/target/release/build/typenum-9b9aab630858d249/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/Brijraj/Documents/Cambridge Comp Sci/Rust/DonationProject/target/release/build/typenum-9b9aab630858d249/out/op.rs
